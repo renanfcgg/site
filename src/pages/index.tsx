@@ -6,6 +6,7 @@ const IndexPage = () => (
   <>
     <Layout/>
    <h1>Teste</h1>
+   <p>Alguma coisa em breve!</p>
   </>    
   )
 
